@@ -1,0 +1,9 @@
+laravel/docker-compose.yml
+laravel/database/
+vue/bun.lockb
+laravel/artisan
+vue/.env.production
+vue/.env
+vue/bun.lockb
+/websockets/node_modules
+websockets/bun.lockb
